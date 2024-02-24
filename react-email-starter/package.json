@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "dev": "email dev --dir react-email"
+    }
+  }
+  
